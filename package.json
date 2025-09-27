@@ -1,0 +1,10 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "IPTV M3U8 proxy hosted on Vercel",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
