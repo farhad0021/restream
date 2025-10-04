@@ -12,7 +12,7 @@ export default async function handler(req, res) {
 
     // Xtream Codes base URL (your source)
     const baseXtream =
-      "http://opplex.to:8080/live/Saadsaleem@/03363299419";
+      "http://opplex.to:8080/live/975567/300900";
     const sourceUrl = `${baseXtream}/${id}.m3u8`;
 
     // Fetch upstream with browser-like headers
